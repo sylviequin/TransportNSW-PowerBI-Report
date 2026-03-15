@@ -1,0 +1,91 @@
+,Year,Travel Mode,Service Driver,Service Attribute,Metrics,Customer Satisfaction Index
+0,2016,Ferry,Overall,How satisfied are you with this service,% satisfied,0.9740310489673142
+1,2016,Ferry,Timeliness,This ferry turning up on time,% satisfied,0.9651673518668286
+2,2016,Ferry,Timeliness,Frequency of this ferry service,% satisfied,0.8680503231297001
+3,2016,Ferry,Timeliness,Journey time given the distance travelled,% satisfied,0.9567680290181
+4,2016,Ferry,Timeliness,Time to connect to other transport services,% satisfied,0.9297031646817427
+5,2016,Ferry,Safety & Security,Feeling safe at the ferry wharf,% satisfied,0.9820224507366857
+6,2016,Ferry,Safety & Security,Feeling safe while on this ferry,% satisfied,0.9866343325495144
+7,2016,Ferry,Safety & Security,This ferry being driven safely,% satisfied,0.9883860101912857
+8,2016,Ferry,Ticketing,Ease of purchasing my ticket,% satisfied,0.9097833655410714
+9,2016,Ferry,Ticketing,Ease of using my Opal card,% satisfied,0.9102680727135858
+10,2016,Ferry,Convenience,Ease of getting to the ferry wharf,% satisfied,0.9619342725058428
+11,2016,Ferry,Convenience,Ease of connection with other modes of transport,% satisfied,0.9509036798378142
+12,2016,Ferry,Accessibility,Ease of accessing the ferry wharf,% satisfied,0.9731687566689999
+13,2016,Ferry,Accessibility,Ease of getting on and off the ferry,% satisfied,0.9777722736833857
+14,2016,Ferry,Accessibility,Usefulness of signs to help you find your way,% satisfied,0.9443684363530144
+15,2016,Ferry,Comfort,Comfort at the ferry wharf (shelter & seating),% satisfied,0.9248331343693285
+16,2016,Ferry,Comfort,Seat availability on this ferry,% satisfied,0.9803339357113573
+17,2016,Ferry,Comfort,Seat comfort on this ferry,% satisfied,0.9581673314430429
+18,2016,Ferry,Comfort,Temperature on this ferry,% satisfied,0.9625093429041571
+19,2016,Ferry,Comfort,Personal space on this ferry,% satisfied,0.9734800458755143
+20,2016,Ferry,Comfort,Smoothness of this ferry trip,% satisfied,0.9799601774075428
+21,2016,Ferry,Cleanliness,Cleanliness of the ferry wharf,% satisfied,0.9643189004191285
+22,2016,Ferry,Cleanliness,Cleanliness of this ferry,% satisfied,0.9709472039432143
+23,2016,Ferry,Information,Availability of arrival information for this ferry,% satisfied,0.9452548593189715
+24,2016,Ferry,Information,Availability of next stop information on this ferry,% satisfied,0.9406845861300572
+25,2016,Ferry,Information,Availability of information about service delays,% satisfied,0.8990139773062856
+26,2016,Ferry,Information,"Ease of finding info (routes, stops, timetables)",% satisfied,0.9175285270015142
+27,2016,Ferry,Customer Service,Willingness of ferry staff to help,% satisfied,0.9417646796870001
+28,2016,Ferry,Customer Service,Knowledge of ferry staff,% satisfied,0.9350475869280286
+29,2016,Ferry,Customer Service,Presentation of ferry staff,% satisfied,0.9538145803358429
+60,2016,Train,Overall,How satisfied are you with this service,% satisfied,0.8640061309964182
+61,2016,Train,Timeliness,This train turning up on time,% satisfied,0.8953247719866727
+62,2016,Train,Timeliness,Frequency of this train service,% satisfied,0.7024748185342818
+63,2016,Train,Timeliness,Journey time given the distance travelled,% satisfied,0.7984484483202
+64,2016,Train,Timeliness,Time to connect to other transport services,% satisfied,0.7639918548615546
+65,2016,Train,Safety & Security,Feeling safe at the train station,% satisfied,0.8825454864523727
+66,2016,Train,Safety & Security,Feeling safe while on this train,% satisfied,0.8899554115716636
+67,2016,Train,Ticketing,Ease of purchasing my ticket,% satisfied,0.8501450498726364
+68,2016,Train,Ticketing,Ease of using my Opal card,% satisfied,0.9203642581155272
+69,2016,Train,Convenience,Ease of getting to the station,% satisfied,0.8630812035591091
+70,2016,Train,Convenience,Ease of connection with other modes of transport,% satisfied,0.8163403450369089
+71,2016,Train,Accessibility,Ease of accessing the train station,% satisfied,0.9019085279821727
+72,2016,Train,Accessibility,Ease of getting on and off the train,% satisfied,0.9083105140526001
+73,2016,Train,Accessibility,Usefulness of signs to help you find your way,% satisfied,0.8768552146919819
+74,2016,Train,Comfort,Comfort at the train station (shelter & seating),% satisfied,0.8104934514730453
+75,2016,Train,Comfort,Seat availability on this train,% satisfied,0.8698262788702273
+76,2016,Train,Comfort,Seat comfort on this train,% satisfied,0.8385479881941819
+77,2016,Train,Comfort,Temperature on this train,% satisfied,0.8285750763716727
+78,2016,Train,Comfort,Personal space on this train,% satisfied,0.8310627972562181
+79,2016,Train,Cleanliness,Cleanliness of the train station,% satisfied,0.8702436561367637
+80,2016,Train,Cleanliness,Cleanliness of this train,% satisfied,0.8538075800246001
+81,2016,Train,Information,Availability of arrival information for this train,% satisfied,0.8683455788577454
+82,2016,Train,Information,Availability of next stop information on this train,% satisfied,0.8635971715166363
+83,2016,Train,Information,Availability of information about service delays,% satisfied,0.7870868524560091
+84,2016,Train,Information,"Ease of finding info (routes, stops, timetables)",% satisfied,0.8336919093760908
+85,2016,Train,Customer Service,Willingness of rail staff to help,% satisfied,0.838037346251491
+86,2016,Train,Customer Service,Knowledge of rail staff,% satisfied,0.8386549269030908
+87,2016,Train,Customer Service,Presentation of rail staff,% satisfied,0.8642814467100365
+88,2016,Train,Overall,How satisfied are you with this service,% satisfied,0.07682264382687636
+89,2016,Train,Timeliness,This train turning up on time,% satisfied,0.06200754067118728
+116,2016,Bus,Overall,How satisfied are you with this service,% satisfied,0.9487797821349918
+117,2016,Bus,Timeliness,This bus turning up on time,% satisfied,0.9102605563109832
+118,2016,Bus,Timeliness,Frequency of this bus service,% satisfied,0.83438760803825
+119,2016,Bus,Timeliness,Journey time given the distance travelled,% satisfied,0.9312570569137416
+120,2016,Bus,Timeliness,Time to connect to other transport services,% satisfied,0.8695871080915499
+121,2016,Bus,Safety & Security,Feeling safe at the bus stop,% satisfied,0.9400279938177832
+122,2016,Bus,Safety & Security,Feeling safe while on this bus,% satisfied,0.9668062191665667
+123,2016,Bus,Safety & Security,This bus being driven safely,% satisfied,0.9713016573077251
+124,2016,Bus,Ticketing,Ease of purchasing my ticket,% satisfied,0.9058548908760834
+125,2016,Bus,Ticketing,Ease of using my Opal card,% satisfied,0.9425249181471335
+126,2016,Bus,Convenience,Ease of getting to the bus stop,% satisfied,0.9345518407168499
+127,2016,Bus,Convenience,Ease of connection with other modes of transport,% satisfied,0.8901576838288748
+128,2016,Bus,Accessibility,Ease of accessing the bus stop,% satisfied,0.9450828069225499
+129,2016,Bus,Accessibility,Ease of getting on and off this bus,% satisfied,0.9627455971252333
+130,2016,Bus,Accessibility,Usefulness of signs to help you find your way,% satisfied,0.9035828128524418
+131,2016,Bus,Comfort,Comfort at the bus stop (shelter & seating),% satisfied,0.8051882200649167
+132,2016,Bus,Comfort,Seat availability on this bus,% satisfied,0.9654470610912668
+133,2016,Bus,Comfort,Seat comfort on this bus,% satisfied,0.9522178853632416
+134,2016,Bus,Comfort,Temperature on this bus,% satisfied,0.9312825600331918
+135,2016,Bus,Comfort,Personal space on this bus,% satisfied,0.9509326087610085
+136,2016,Bus,Comfort,Smoothness of this bus trip,% satisfied,0.9246062735599417
+137,2016,Bus,Cleanliness,Cleanliness of the bus stop,% satisfied,0.8857082049294333
+138,2016,Bus,Cleanliness,Cleanliness of this bus,% satisfied,0.9629784856021081
+139,2016,Bus,Information,Availability of arrival information for this bus,% satisfied,0.88759135287295
+140,2016,Bus,Information,Availability of next stop information on this bus,% satisfied,0.8507883988374584
+141,2016,Bus,Information,Availability of information about service delays,% satisfied,0.7817680201343666
+142,2016,Bus,Information,"Ease of finding info (routes, stops, timetables)",% satisfied,0.8616625127612166
+143,2016,Bus,Customer Service,Willingness of bus staff to help,% satisfied,0.9295645817724082
+144,2016,Bus,Customer Service,Knowledge of bus staff,% satisfied,0.9350123232320998
+145,2016,Bus,Customer Service,Presentation of bus staff,% satisfied,0.9610409375013917
